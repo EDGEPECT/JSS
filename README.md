@@ -1,0 +1,2 @@
+# JSS
+wiki-style
